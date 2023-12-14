@@ -1,1 +1,1 @@
-checking the manual triggering.
+checking the periodic triggering.
