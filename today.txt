@@ -1,1 +1,1 @@
-checking the periodic triggering.
+checking the poll SCM triggering.
